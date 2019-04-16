@@ -1,5 +1,5 @@
 # ReactReduxBoilerplateApp
-A Starter Kit to get started on a UI Project with Reactjs, Redux and Sass.
+A Starter Kit to get started on a User Interface (UI) Project with Reactjs, Redux and Sass.
 
 
 ## Step 1
